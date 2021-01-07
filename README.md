@@ -4,11 +4,11 @@
 - 👨‍🏫 I'm a Head TA for CS 70 Discrete Math and Probability Theory
 - 🔭 I'm currently doing research at the UC Berkeley RAISE Lab (Research in AI for Sustainable Energy)
 
-### CV
+#### CV
 - 🌐 You can find my website at [tarangsriv.me](tarangsriv.me)
-- 😃 
+- 😃 We can connect on [LinkedIn](https://www.linkedin.com/in/tarangsriv/)
 
-### Socials
+#### Socials
 - 💛 Follow me on [Instagram](https://www.instagram.com/tsgoten/) and [Twitter](https://twitter.com/tsgoten)! 
 - 📫 Email me at [tarang.sriv@berkeley.edu](mailto:tarang.sriv@berkeley.edu)
 <!--
