@@ -6,6 +6,7 @@
 - 🌐 You can find my website at [tarangsriv.me](tarangsriv.me) and 😃 connect on [LinkedIn](https://www.linkedin.com/in/tarangsriv/)
 - 💛 Follow me on [Instagram](https://www.instagram.com/tsgoten/) and [Twitter](https://twitter.com/tsgoten)! 
 - 📫 Email me at [tarang.sriv@berkeley.edu](mailto:tarang.sriv@berkeley.edu)
+- 📱 I really enjoy mobile development, and have worked with iOS, Android and React-Native 
 <!--
 **tsgoten/tsgoten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
