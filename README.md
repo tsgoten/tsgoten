@@ -1,12 +1,9 @@
 ### Hello 👋 Welcome to my GitHub 🤖
 
 - 🐻 I'm a Computer Science and Applied Math major at UC Berkeley 
-- 👨‍🏫 I'm a Head TA for [CS 70](http://www.eecs70.org/staff/) Discrete Math and Probability Theory
 - 🔭 I'm currently doing research at the UC Berkeley RAISE Lab (Research in AI for Sustainable Energy)
 - 🌐 You can find my website at [tarangsriv.me](tarangsriv.me) and 😃 connect on [LinkedIn](https://www.linkedin.com/in/tarangsriv/)
 - 💛 Follow me on [Instagram](https://www.instagram.com/tsgoten/) and [Twitter](https://twitter.com/tsgoten)! 
-- 📫 Email me at [tarang.sriv@berkeley.edu](mailto:tarang.sriv@berkeley.edu)
-- 📱 I really enjoy mobile development, and have worked with iOS, Android and React-Native 
 <!--
 **tsgoten/tsgoten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
