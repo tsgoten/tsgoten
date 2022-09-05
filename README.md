@@ -2,7 +2,7 @@
 
 - 🐻 I'm a Computer Science and Applied Math major at UC Berkeley 
 - 🔭 I'm currently doing research at the UC Berkeley RAISE Lab (Research in AI for Sustainable Energy)
-- 🌐 You can find my website at [tarangsriv.me](https://tarangsriv.me/) and 😃 connect on [LinkedIn](https://www.linkedin.com/in/tarangsriv/)
+- 🌐 You can find my website at [tarangsriv.me](https://resume.tarangsriv.me/) and 😃 connect on [LinkedIn](https://www.linkedin.com/in/tarangsriv/)
 - 💛 Follow me on [Instagram](https://www.instagram.com/tsgoten/) and [Twitter](https://twitter.com/tsgoten)! 
 <!--
 **tsgoten/tsgoten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
